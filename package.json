@@ -1,0 +1,24 @@
+{
+  "name": "webprog-js-lab-10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimaBogach/webprog-js-lab-10.git"
+  },
+  "keywords": [],
+  "author": "Dimon <bogacdmitro62@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimaBogach/webprog-js-lab-10/issues"
+  },
+  "homepage": "https://github.com/DimaBogach/webprog-js-lab-10#readme",
+  "description": "",
+  "dependencies": {
+    "flatpickr": "^4.6.13",
+    "izitoast": "^1.4.0"
+  }
+}
